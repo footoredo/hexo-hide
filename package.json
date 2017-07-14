@@ -1,0 +1,19 @@
+{
+  "name": "hexo-hide",
+  "version": "0.0.1",
+  "description": "A hexo plugin to implement the \"click to show\" feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/footoredo/hexo-hide.git"
+  },
+  "author": "footoredo <footoredo@gmail.com> (https://footoredo.cat)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/footoredo/hexo-hide/issues"
+  },
+  "homepage": "https://github.com/footoredo/hexo-hide#readme"
+}
